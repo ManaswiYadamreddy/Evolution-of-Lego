@@ -1,0 +1,4 @@
+Skills:
+- Reading CSV files with Python
+- Filtering DataFrame based on conditional parameters
+- Grouping data by column values and aggregating it
